@@ -1,0 +1,2 @@
+# ping
+JEE ping application
